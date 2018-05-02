@@ -631,6 +631,6 @@ ZenHub是第一个也是唯一一个可以在GitHub内部工作的项目管理�
 <details><summary>截图</summary>
 
  ![gitsense](https://raw.githubusercontent.com/gitsense/insight/misc_images/images/search-any-branch.png)
-</details>
+</details> 
 
 
