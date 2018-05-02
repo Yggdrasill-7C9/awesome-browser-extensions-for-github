@@ -28,7 +28,7 @@
 
 ### [GitHub Custom Tab Size](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-在GitHub.com上为代码视图设置自定义标签大小。
+自定义 Tab 大小。
 
 <details><summary>截图</summary>
 
@@ -102,7 +102,7 @@ Whereisit使GitHub上的代码导航更容易。只需单击一下，就可以�
 
 ### [GitHub Issue Link Status](https://github.com/bfred-it/github-issue-link-status/) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-Colorize issue and PR links to see their status (open, closed, merged).
+给 issue 和 PR 增加颜色(open, closed, merged).
 
 <details><summary>截图</summary>
 
