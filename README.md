@@ -4,16 +4,16 @@
 
 ### 目录
 
-- [Code](#code)
-- [Comments](#comments)
-- [Miscellaneous](#miscellaneous)
-- [Navigation](#navigation)
-- [Newsfeed](#newsfeed)
-- [Notifications](#notifications)
+- [代码](#code)
+- [注释](#comments)
+- [杂项](#miscellaneous)
+- [导航](#navigation)
+- [新闻](#newsfeed)
+- [通知](#notifications)
 - [Profile](#profile)
 - [PullRequest](#pullrequest)
 - [Repository](#repository)
-- [Search](#search)
+- [搜索](#search)
 
 ## Code
 
