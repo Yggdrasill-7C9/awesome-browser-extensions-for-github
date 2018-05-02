@@ -2,7 +2,7 @@
 
 A curated list of awesome browser extensions for GitHub.
 
-### Table of Content
+### 目录
 
 - [Code](#code)
 - [Comments](#comments)
