@@ -64,7 +64,7 @@ Octo-Linker是一个浏览器扩展，它将NPM，bower，Composer＆Duo依赖�
 
 ### [Render Whitespace on GitHub](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-他们是标签吗？他们是空间吗？多少？永远不要再怀疑！像GitHub上的所有代码·一样呈现空格和标签→。
+显示空格。
 
 <details><summary>截图</summary>
 
@@ -73,7 +73,7 @@ Octo-Linker是一个浏览器扩展，它将NPM，bower，Composer＆Duo依赖�
 
 ### [Tab Size on GitHub](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-tab-size/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-通过强制将标签大小设置为4而不是8，可使制表符缩进代码更具可读性。
+通过强制将Tab大小设置为4而不是8，可使制表符缩进代码更具可读性。
 
 <details><summary>截图</summary>
 
@@ -82,7 +82,7 @@ Octo-Linker是一个浏览器扩展，它将NPM，bower，Composer＆Duo依赖�
 
 ### [Where is it?](https://github.com/WhereIsItDev/whereisit) <a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-Whereisit使GitHub上的代码导航更容易。只需单击一下，就可以查看并跳过类/方法定义。
+代码跳转插件。只需单击一下，就可以查看并跳过类/方法定义。
 
 <details><summary>截图</summary>
 
@@ -91,7 +91,7 @@ Whereisit使GitHub上的代码导航更容易。只需单击一下，就可以�
 
 ### [GitHub Code Folding](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-代码折叠 - 有选择地隐藏和显示代码段的功能 - 在许多文本编辑器和IDE中都是非常重要的功能。现在，开发人员可以利用相同风格的代码折叠，同时仔细阅读GitHub网站上的源代码。适用于任何类型的缩进空间或制表符。
+代码折叠插件。
 
 <details><summary>截图</summary>
 
@@ -111,7 +111,7 @@ Whereisit使GitHub上的代码导航更容易。只需单击一下，就可以�
 
 ### [OctoDraft](https://github.com/wildeyes/OctoDraft) <a href="https://chrome.google.com/webstore/detail/octodraft/mjfaidoickdplapkfhajfkehpepmccfg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-OctoDraft是一个浏览器扩展，它在GitHub的问题部分添加了一个保存草稿按钮，用于那些没有时间写完整个问题的时间。
+提交 issues 时增加一个草稿按钮。
 
 <details><summary>截图</summary>
 
@@ -129,7 +129,7 @@ OctoEdit是一个浏览器扩展，它在GitHub的注释编辑区域添加了一
 
 ### [OctoPreview](https://github.com/DrewML/octo-preview) <a href="https://chrome.google.com/webstore/detail/octo-preview/elomekmlfonmdhmpmdfldcjgdoacjcba"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-在键入时显示Markdown评论的实时预览。适用于问题+拉取请求。
+在键入时显示Markdown评论的实时预览。适用于issue和拉取请求。
 
 <details><summary>截图</summary>
 
@@ -316,7 +316,7 @@ Chrome和Firefox扩展程序在您的GitHub新闻提要中发生某些事件时�
 
 <details><summary>截图</summary>
 
- ![News Feed for GitHub](https://raw.githubusercontent.com/julmot/news-feed-for-github/master/截图/chrome.png)
+ ![News Feed for GitHub](https://raw.githubusercontent.com/julmot/news-feed-for-github/master/screenshots/chrome.png)
 </details>
 
 
@@ -377,8 +377,7 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 <details><summary>截图</summary>
 
- ![GitHub Hovercard](https://raw.githubusercontent.com/Justineo/github-hovercard/master/截图/2.png)
-</details>
+ ![GitHub Hovercard](https://raw.githubusercontent.com/Justineo/github-hovercard/master/screenshots/2.png)
 
 ### [Isometric Contributions](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/jasonlong/isometric-contributions#safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -400,7 +399,7 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 ### [GithubOriginalStreak](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-扩展获取当前和最长的连胜。
+获取最长的提交记录。
 
 <details><summary>截图</summary>
 
@@ -422,7 +421,7 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 ### [Codecov: Code Coverage Overlay](https://codecov.io) <a href="https://chrome.google.com/webstore/detail/codecov-extension/keefkhehidemnokodkdkejapdgfjmijf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/codecov-extension/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
-在Github和Bitbucket中覆盖代码覆盖率。支持提交，blob，责备，比较，拉等等。免费的开放源代码库。
+在Github和Bitbucket中覆盖代码覆盖率。支持commit，blobs， blame，compare， pulls等等。免费的开放源代码库。
 
 <details><summary>截图</summary>
 
@@ -494,7 +493,7 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 <details><summary>截图</summary>
 
- ![Gitter Helper](https://lh3.googleusercontent.com/sRRg2KsBhOnu3RFfLZYDWFEn52hngmM9ygdc-gBvjmY4l8a4moFjgXJTVUVNNj-oIUCplfVwHgQ=s1280-h800-e365-rw)
+ ![Gitter Helper](https://camo.githubusercontent.com/36f717db13ed917e182ef024834d970f289e0265/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f73525267324b7342684f6e75335246664c5a59445746456e3532686e676d4d39796764632d6742766a6d59346c3861346d6f466a67584a545655564e4e6a2d6f495543706c6656774867513d73313238302d683830302d653336352d7277)
 </details>
 
 ### [Hide files on GitHub](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hide-files/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
@@ -508,11 +507,11 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 ### [GitHub File Icon](https://github.com/xxhomey19/github-file-icon) <a href="https://chrome.google.com/webstore/detail/github-file-icon/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-一个浏览器扩展，在GitHub上给出不同的文件类型不同的图标。
+给 github 不同的文件增加图标。
 
 <details><summary>截图</summary>
 
-  <img src='https://user-images.githubusercontent.com/12113222/34595351-31adce0a-f212-11e7-860a-c2ada55536c8.png'/>
+  <img src='https://github.com/dderevjanik/github-vscode-icons/raw/master/docs/screenshots/repo_screens.png'/>
 </details>
 
 ### [Github vscode-icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
@@ -525,7 +524,7 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 ### [Lovely forks](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-请参阅存储库名称中星号最多的分支。
+列出 fork 分支最多 star 的 repo
 
 <details><summary>截图</summary>
 
@@ -566,14 +565,14 @@ Chrome扩展程序检查您正在访问的GitHub个人资料是否遵循Twitter�
 
 <details><summary>截图</summary>
 
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/截图/screenshot-home.png">
-  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/截图/screenshot-file.png">
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-home.png">
+  <img src="https://raw.githubusercontent.com/softvar/github-plus/master/screenshots/screenshot-file.png">
 </details>
 
 
 ### [Github Repo Size](https://github.com/harshjv/github-repo-size) <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-自动将存储库大小添加到GitHub的存储库摘要中。
+显示每个文件的大小。
 
 <details><summary>截图</summary>
 
@@ -618,7 +617,7 @@ ZenHub是第一个也是唯一一个可以在GitHub内部工作的项目管理�
 
 ### [GitHub Awesome Autocomplete](https://github.com/algolia/github-awesome-autocomplete) <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
-简单而谨慎的扩展，增强了GitHub的搜索功能，让您可以比以往更快地搜索存储库和人员。
+增强了GitHub的搜索功能，让您可以比以往更快地搜索仓库和人员。
 
 <details><summary>截图</summary>
 
